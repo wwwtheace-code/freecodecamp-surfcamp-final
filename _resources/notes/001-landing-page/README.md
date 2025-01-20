@@ -1,4 +1,4 @@
-# 1. Building The Landing Page In Next.js
+# Building The Landing Page In Next.js
 
 Now that we have created our _Home Page_ in Strapi with few blocks, let's first take a look how we can retrieve our data.
 
@@ -335,8 +335,8 @@ export function InfoBlock({
       <StrapiImage
         src={image.url}
         alt={image.alternativeText || "No alternative text provided"}
-        height={100}
-        width={100}
+        height={500}
+        width={600}
         className="info__image"
       />
       <div className="info__text">

@@ -17,8 +17,8 @@ export function InfoBlock({
       <StrapiImage
         src={image.url}
         alt={image.alternativeText || "No alternative text provided"}
-        height={100}
-        width={100}
+        height={500}
+        width={600}
         className="info__image"
       />
       <div className="info__text">
