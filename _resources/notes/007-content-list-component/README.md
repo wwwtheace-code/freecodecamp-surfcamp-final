@@ -101,7 +101,7 @@ export function Card({
           src={image.url}
           alt={image.alternativeText || "No alternative text provided"}
           width={400}
-          height={400}}
+          height={400}
         />
       </div>
       <div className="content-items__card-text">
