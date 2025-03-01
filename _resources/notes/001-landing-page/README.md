@@ -1,5 +1,7 @@
 # Building The Landing Page In Next.js
 
+You can find the Figma file that we will be using [here](https://www.figma.com/design/N27pbzZuIRUm68cjBKuFxv/Surf-Camp-%2F-Sharefile).
+
 Now that we have created our _Home Page_ in Strapi with few blocks, let's first take a look how we can retrieve our data.
 
 ## 1.1. Fetching Data From Strapi
