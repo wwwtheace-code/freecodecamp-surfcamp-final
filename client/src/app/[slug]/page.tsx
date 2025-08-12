@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { getPageBySlug } from "@/data/loaders";
 import { notFound } from "next/navigation";
 import { BlockRenderer } from "@/components/BlockRenderer";
