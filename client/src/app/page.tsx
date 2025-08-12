@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { BlockRenderer } from "@/components/BlockRenderer";
 import { ContentList } from "@/components/ContentList";
 import { BlogCard } from "@/components/BlogCard";
